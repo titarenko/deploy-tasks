@@ -1,0 +1,8 @@
+{
+  "name": "deploy-tasks",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:titarenko/deploy-tasks.git",
+  "author": "Constantin Titarenko <constantin.titarenko@gmail.com>",
+  "license": "MIT"
+}
